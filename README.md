@@ -45,11 +45,6 @@ PostgreSQL / MySQL 用のデスクトップDBクライアントです（Windows 
   - macOS: `~/Library/Application Support/DB Workbench`
 - 保存したパスワードは、OSの保護機構（Windows DPAPI / macOS キーチェーン）で暗号化します。
 
-## 旧名 TigerDB Workbench からの移行
-
-初回起動時に、旧TigerDB Workbenchの接続設定とワークスペース設定を自動で引き継ぎます（旧フォルダーは残ります）。
-macOSでは保存済みパスワードを読めないため、接続時に入力し直してください。
-
 ## 問い合わせ・ライセンス
 
 使い方と制限の詳細は、ダウンロードしたファイルに同梱の `START-HERE.md` を参照してください。
